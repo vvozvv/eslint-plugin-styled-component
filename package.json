@@ -1,0 +1,19 @@
+{
+  "name": "eslint-plugin-styled-component",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/vvozvv/eslint-plugin-styled-component.git"
+  },
+  "author": "vvozvv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vvozvv/eslint-plugin-styled-component/issues"
+  },
+  "homepage": "https://github.com/vvozvv/eslint-plugin-styled-component#readme"
+}
